@@ -1,0 +1,25 @@
+{
+  "name": "interval-clock",
+  "version": "0.0.1",
+  "description": "An event based interval clock that is mapped to the system time that is on the cpu hosting the process",
+  "main": "index.js",
+  "scripts": {
+    "test": "test:unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swimclan/interval-clock.git"
+  },
+  "keywords": [
+    "clock",
+    "interval",
+    "second",
+    "minute"
+  ],
+  "author": "Matthew Herron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swimclan/interval-clock/issues"
+  },
+  "homepage": "https://github.com/swimclan/interval-clock#readme"
+}
